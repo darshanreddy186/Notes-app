@@ -1,17 +1,21 @@
-# OfflineNotesApp (Expo)
-A small React Native (Expo) offline multi-user notes app (zip-ready).
-Features:
-- Offline Sign Up / Login (AsyncStorage)
-- Per-user notes (title, body, optional image)
-- Image pick from gallery / camera (stored in FileSystem so they persist)
-- Search + Sort (title / last updated)
-- Logout & account switch
+<img width="467" height="831" alt="image" src="https://github.com/user-attachments/assets/77e534ef-0fce-4046-b6e4-873bf2c2a066" /># OfflineNotesApp (Expo)
 
-How to run:
-1. Install Expo CLI and dependencies:
-   npm install -g expo-cli
-2. Extract the zip and run:
-   npm install
-   expo start
 
-This project is a minimal working skeleton intended for the assignment. 
+steps 
+git clone <repo link>
+npm install
+npx expo start 
+w for web view
+
+
+
+screenshots
+
+
+<img width="467" height="831" alt="image" src="https://github.com/user-attachments/assets/6d4a7c88-0815-4a0f-b4d2-f74f5aec24b0" />
+
+<img width="467" height="824" alt="image" src="https://github.com/user-attachments/assets/1751539c-1576-435b-8b0a-c7dd5ebd0430" />
+
+<img width="468" height="839" alt="image" src="https://github.com/user-attachments/assets/5c04693b-5f38-4654-a454-c504c29a2516" />
+
+<img width="471" height="831" alt="image" src="https://github.com/user-attachments/assets/cb7e8ecb-8e16-4e7a-bc18-39dbd776494d" />
