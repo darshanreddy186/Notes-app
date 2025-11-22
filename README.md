@@ -1,11 +1,11 @@
 # OfflineNotesApp (Expo)
 
 
-#steps 
-##git clone <repo link>
-##npm install
-##npx expo start 
-##w for web view
+steps  
+git clone <repo link>  
+npm install  
+npx expo start  
+w for web view  
 
 
 
