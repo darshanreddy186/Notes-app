@@ -1,11 +1,11 @@
-<img width="467" height="831" alt="image" src="https://github.com/user-attachments/assets/77e534ef-0fce-4046-b6e4-873bf2c2a066" /># OfflineNotesApp (Expo)
+# OfflineNotesApp (Expo)
 
 
-steps 
-git clone <repo link>
-npm install
-npx expo start 
-w for web view
+#steps 
+##git clone <repo link>
+##npm install
+##npx expo start 
+##w for web view
 
 
 
